@@ -1,5 +1,5 @@
 # git-secret-test
-A test repo for testing git-secrets
+A test repo for testing git-secrets 
 
 aws_access_key_id = XKIAIOSFODNN7EXAMPLE
 

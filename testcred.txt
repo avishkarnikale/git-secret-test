@@ -1,1 +1,1 @@
-aws_access_key_id = XKIAIOSFODNN7EXAMPLE 
+aws_access_key_id = AKIAWFNSYFWCKHJ6DFHB	
